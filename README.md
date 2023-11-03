@@ -22,5 +22,5 @@ Formas de Contato
 =================
 <!--ts-->
    * [Discord](https://discord.gg/kxFx52mR) (McZ#9703)
-   * [Gmail](mauriciosouzaalves01@gmail.com) (mauriciosouzaalves01@gmail.com)
+   * [Gmail] (mauriciosouzaalves01@gmail.com)
 <!--te-->
