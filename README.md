@@ -17,3 +17,10 @@
   Qual é meu maior sonho, e minha motivação
 </h1>
 <p align="center">Meu sonho é trabalhar com programação no back-end. Minha motivação para continuar estudando linguagens de programação, como o Python, é a capacidade de simplificar tarefas cotidianas. Gosto da frequência com que a tecnologia tem avançado ultimamente e, na minha opinião, trabalhar como programador ou profissional de TI representa as carreiras do futuro</p>
+
+Formas de Contato
+=================
+<!--ts-->
+   * [Discord](https://discord.gg/kxFx52mR) (McZ#9703)
+   * [Gmail](mauriciosouzaalves01@gmail.com) (mauriciosouzaalves01@gmail.com)
+<!--te-->
