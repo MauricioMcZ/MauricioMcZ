@@ -9,7 +9,6 @@
 
 </div>
 
-Esta seção do README é dedicada a compartilhar um pouco mais sobre mim e os tópicos que me apaixonam e me motivam.
 <h1 align="center">
   Quem sou eu?
 </h1>
