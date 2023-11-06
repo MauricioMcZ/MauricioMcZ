@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-![npm](https://img.shields.io/badge/PixelBot-v1.8-violet)
+![PixelBot](https://img.shields.io/static/v1?label=PixelBot&message=v0.0.8&color=C167FF)
 
 </div>
 
