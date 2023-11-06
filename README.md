@@ -27,6 +27,6 @@
 <a href = "mailto:mauriciosouzaalves01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mauricio-souza-b920aa270/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<a href="https://discord.gg/wDv8xH78W2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%502AFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://discord.gg/wDv8xH78W2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%502AFF?style=for-the-badge&logo=discord &logoColor=white" target="_blank"></a>  
 </div>
 
