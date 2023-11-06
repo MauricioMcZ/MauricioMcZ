@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/wDv8xH78W2">
+  <a href="🐢 hello <3">
     <img src="https://share.creavite.co/6bdRwlrbHe1bZGc7.gif" height="200" width="550" alt="PixelBot" />
   </a>
 </p>
