@@ -14,7 +14,7 @@
 <h1 align="center">
   Qual é meu maior sonho, e minha motivação
 </h1>
-<p align="center">Meu sonho é trabalhar com programação no back-end. Minha motivação para continuar estudando linguagens de programação, como o Python, é a capacidade de simplificar tarefas cotidianas. Gosto da frequência com que a tecnologia tem avançado ultimamente e, na minha opinião, trabalhar como programador ou profissional de TI representa as carreiras do futuro</p>
+<p align="center">Meu sonho é trabalhar com programação no back-end. Minha motivação para continuar estudando linguagens de programação. Gosto da frequência com que a tecnologia tem avançado ultimamente e, na minha opinião, trabalhar como programador ou profissional de TI representa as carreiras do futuro</p>
 
 
 
