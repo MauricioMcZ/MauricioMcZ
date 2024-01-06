@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MauricioMcZ">
-    <img src="https://share.creavite.co/6bdRwlrbHe1bZGc7.gif" height="200" width="550" alt="PixelBot" />
+    <img src="https://share.creavite.co/6bdRwlrbHe1bZGc7.gif" height="200" width="550" alt="IMG-McZ" />
   </a>
 </p>
 
