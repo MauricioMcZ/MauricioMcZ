@@ -11,18 +11,13 @@
 <p align="center">Meu sonho é trabalhar com programação no Full Stack. Motivado pela constante evolução da tecnologia, acredito que as carreiras em programação e TI são o futuro.</p>
 
 <h1 align="center">🎈 Tecnologias</h1>
-<p align="center">
-  Atualmente, estou focado no aprendizado de JavaScript e suas tecnologias relacionadas, incluindo:
-</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-HTML-F44336?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </div>
 
 <p align="center">
-  Além disso, tenho interesse em explorar outras linguagens e frameworks para expandir meu conhecimento e habilidades. Estou sempre em busca de desafios que possam aprimorar minha experiência como desenvolvedor Full Stack.
+  Além disso, tenho interesse em explorar outras linguagens e frameworks para expandir meu conhecimento e habilidades. Estou sempre em busca de desafios que possam aprimorar minha experiência como desenvolvedor web Full Stack.
 </p>
 
 
