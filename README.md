@@ -14,6 +14,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-F44336?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/bagde/-CSS-2986CC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
 <p align="center">
