@@ -13,8 +13,8 @@
 <h1 align="center">🎈 Tecnologias</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-F44336?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-HTML-F44336?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
+  <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
 </div>
 
 <p align="center">
