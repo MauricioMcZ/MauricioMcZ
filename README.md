@@ -20,6 +20,6 @@
 <div align="">
   <a href="https://www.instagram.com/s_nightshadows/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:mauriciosouzaalves01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mauricio-souza-a142792b5/""><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://discord.gg/kQKJgNTCuK" ><img src="https://img.shields.io/badge/-Discord-502AFF?style=for-the-badge&logo=discord&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/mauricio-souza-a142792b5/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/+5511987339379"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 </div>
