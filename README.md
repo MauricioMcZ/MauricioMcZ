@@ -13,13 +13,13 @@
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.discordapp.com/attachments/849662508024856637/1225550615472767056/4381378511600029534-512.png?ex=662189f4&is=660f14f4&hm=678ae3fb08e84dc87bc2a0142daf30e8fc76522351f9fa594bc41d54f004efae&">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.discordapp.com/attachments/849662508024856637/1225550615472767056/4381378511600029534-512.png?ex=66d62774&is=66d4d5f4&hm=5c872150314975fd8c986bb4ba10fdda6e0e06de19cb29d8a82c2426267978b1&">
 </div>
 
 
 ## 📫 Contatos:
 <div align="">
-  <a href="https://www.instagram.com/s_nightshadows/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/mcz_mauricio__/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:mauriciosouzaalves01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mauricio-souza-a142792b5/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/+5511987339379"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
