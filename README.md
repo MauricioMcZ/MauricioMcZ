@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, sou Mauricio!</h1>
-<p align="center">Tenho 18 anos e sou apaixonado por linguagens de programação. Estou constantemente em busca de oportunidades para trabalhar com a programação e ansioso para fazer novas amizades que compartilhem o mesmo interesse. Vamos explorar o mundo da programação juntos!</p>
+<p align="center">Tenho 19 anos e sou apaixonado por linguagens de programação. Estou constantemente em busca de oportunidades para trabalhar com a programação e ansioso para fazer novas amizades que compartilhem o mesmo interesse. Vamos explorar o mundo da programação juntos!</p>
 
 <h2 align="center">🚀 Meu Mundo na Programação</h2>
 <p align="center">Meu sonho é trabalhar com programação no Full Stack. Motivado pela constante evolução da tecnologia, acredito que as carreiras em programação e TI são o futuro. Além disso, tenho interesse em explorar outras linguagens e frameworks para expandir meu conhecimento e habilidades. Estou sempre em busca de desafios que possam aprimorar minha experiência como desenvolvedor web Full Stack.</p>
