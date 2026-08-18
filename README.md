@@ -130,8 +130,6 @@ Ambientação com gráficos realistas, ciclo dinâmico de dia e noite, som ambie
   <img src="https://raw.githubusercontent.com/MauricioMcZ/MauricioMcZ/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
-> ⚙️ Essa animação só aparece depois de ativar a GitHub Action `snake.yml` (arquivo incluído junto com este README). Veja o passo a passo abaixo.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer" width="100%"/>
 </p>
